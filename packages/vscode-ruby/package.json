@@ -1,11 +1,11 @@
 {
-  "name": "vscode-ruby",
-  "displayName": "VSCode Ruby",
-  "publisher": "wingrunr21",
-  "version": "0.28.0",
-  "description": "Syntax highlighing, snippet, and language configuration support for Ruby",
-  "repository": "https://github.com/rubyide/vscode-ruby",
-  "author": "Stafford Brunk <stafford.brunk@gmail.com>",
+  "name": "vscode-ruby-experimental",
+  "displayName": "VSCode Ruby - experimental",
+  "publisher": "kachick",
+  "version": "0.29.0",
+  "description": "Syntax highlighting, snippet, and language configuration support for Ruby",
+  "repository": "https://github.com/kachick/vscode-ruby",
+  "author": "Kenichi Kamiya <kachick1@gmail.com>",
   "license": "MIT",
   "private": true,
   "extensionKind": [
