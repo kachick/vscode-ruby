@@ -2,6 +2,8 @@
 
 This extension provides improved syntax highlighting, language configuration, and snippets to Ruby and ERB files within Visual Studio Code. It is meant to be used alongside the [Ruby extension](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby).
 
+This project is temporary forked from [vscode-ruby](https://github.com/rubyide/vscode-ruby) to test some patches.
+
 ## Syntax Highlighting
 
 Before:
